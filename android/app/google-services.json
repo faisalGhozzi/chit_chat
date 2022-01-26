@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873281886931",
+    "project_id": "chatnet-aee6c",
+    "storage_bucket": "chatnet-aee6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873281886931:android:897044edeb2a77ab31d226",
+        "android_client_info": {
+          "package_name": "com.example.chatnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873281886931-l6tbgk0vpmo7906bn4r9a0ad46af890s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcSmdz9mLBfO5xVTwfXZp6nj3gsH8noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873281886931-l6tbgk0vpmo7906bn4r9a0ad46af890s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
