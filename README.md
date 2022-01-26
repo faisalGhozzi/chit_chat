@@ -1,3 +1,3 @@
 # chit_chat
 
-Flutter real time chat application
+Flutter real time messaging application
